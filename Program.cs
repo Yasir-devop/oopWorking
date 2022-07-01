@@ -22,7 +22,7 @@ namespace oopWorking
             Customer customer = new Customer
             {
                 ID = 1,
-                FirstName = "Yasir",
+                FirstName = "Mahir",
                 LastName = "Kurt",
                 City = "İstanbul"
             };
